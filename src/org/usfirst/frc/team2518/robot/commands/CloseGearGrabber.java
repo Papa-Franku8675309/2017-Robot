@@ -15,6 +15,7 @@ public class CloseGearGrabber extends Command {
 		requires(Robot.gearGrabber);
 	}
 
+
 	// Called just before this Command runs the first time
 	@Override
 	protected void initialize() {
